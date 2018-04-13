@@ -4,7 +4,7 @@ Development of the logic for the Klondike game (project done for the OOP course 
 ![alt text](https://raw.githubusercontent.com/jdromeiro/KlondikeProject/master/Klondike.png)
 
 ## Project statement
-The description of the requirements for the project can be found [here](https://www.dropbox.com/s/eih4ectrc37nywu/Klondike_project_statement.pdf?dl=0).
+The description of the requirements for the project can be found [here](https://raw.githubusercontent.com/jdromeiro/KlondikeProject/master/Klondike_project_statement.pdf).
 
 ## Grade obtained
 17/20
